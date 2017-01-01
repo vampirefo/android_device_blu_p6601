@@ -13,3 +13,12 @@ Display | 5" 1280 x 720 px
 Camera  | 8 MP, f/2.0, autofocus, LED flash
 
 This branch is for building CyanogenMod 14 (or Android Nougat 7.1 AOSP based roms) ROMS.
+
+
+
+This is based off of the following people's work and github.
+
+credits 
+
+olegsvs 
+DeckerSU
